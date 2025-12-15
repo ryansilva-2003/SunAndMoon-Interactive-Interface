@@ -5,6 +5,6 @@ Para informações do projeto.
 É um projeto interativo em JavaScript, HTML e CSS. O projeto é voltado para estudo de DOM, animações CSS e interatividade.
 <hr>
 <h3>Link para o projeto</h3>
-https://ryansilva-2003.github.io/SunAndMoon/
+(https://ryansilva-2003.github.io/SunAndMoon-Interactive-Interface/)
 <h3>Autor</h3>
 Projeto desenvolvido por Ryan.
